@@ -12,7 +12,7 @@
         "description": "Simple cw-egg app boilerplate"
       },
       "cw-koa-ts": {
-        "package": "cw-koa-ts-boilerplate-sample",
+        "package": "cw-koa-ts-boilerplate-simple",
         "description": "Simple cw-koa-ts app boilerplate"
       }
     }
