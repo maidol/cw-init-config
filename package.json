@@ -1,6 +1,6 @@
 {
   "name": "cw-init-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cw init boilerplate config",
   "files": [
     "index.js"
@@ -22,8 +22,7 @@
     "type": "git",
     "url": "https://github.com/maidol/cw-init-config.git"
   },
-  "bugs": {
-  },
+  "bugs": {},
   "keywords": [
     "cw",
     "cw-init"
