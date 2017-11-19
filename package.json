@@ -9,11 +9,11 @@
     "boilerplate": {
       "cw-egg": {
         "package": "cw-egg-boilerplate-simple",
-        "description": "Simple egg app boilerplate"
+        "description": "Simple cw-egg app boilerplate"
       },
-      "koa-ts": {
-        "package": "koa-ts-boilerplate-sample",
-        "description": "Empty egg app boilerplate"
+      "cw-koa-ts": {
+        "package": "cw-koa-ts-boilerplate-sample",
+        "description": "Simple cw-koa-ts app boilerplate"
       }
     }
   },
